@@ -59,7 +59,7 @@ function Pangram( userInput ) {
         return {
                 message: resultMsg,
                 letters: lettersNotUsed
-                }
+                };
 
     };
 
